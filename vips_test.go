@@ -173,4 +173,3 @@ func TestResizeWebp(t *testing.T) {
 		)
 	}
 }
-
